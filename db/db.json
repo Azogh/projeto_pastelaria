@@ -1,0 +1,89 @@
+{
+  "ingredientes": {
+    "tamanhos": [
+      {
+        "id": 1,
+        "tipo": "P"
+      },
+      {
+        "id": 2,
+        "tipo": "M"
+      },
+      {
+        "id": 3,
+        "tipo": "G"
+      },
+      {
+        "id": 4,
+        "tipo": "GG"
+      }
+    ],
+    "recheios": [
+      {
+        "id": 1,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 2,
+        "tipo": "Frango"
+      },
+      {
+        "id": 3,
+        "tipo": "Queijo com Brócolis"
+      },
+      {
+        "id": 4,
+        "tipo": "Bacon"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon extra"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola"
+      },
+      {
+        "id": 5,
+        "tipo": "Calabresa"
+      },
+      {
+        "id": 6,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "pasteis": []
+}
